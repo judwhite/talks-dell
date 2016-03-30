@@ -1,4 +1,5 @@
-Slides: http://go-talks.appspot.com/github.com/judwhite/talks-dell/talk.slide
+Slides: http://go-talks.appspot.com/github.com/judwhite/talks-dell/talk.slide  
+Video from a previous presentation of this talk: https://youtu.be/8Z8cOfyF0C0?t=50m20s
 
 Go: A Practical Start Guide  
 30 March 2016  
