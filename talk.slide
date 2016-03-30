@@ -120,7 +120,7 @@ Meetups
 Cross-platform IDEs
 
 - [[https://code.visualstudio.com/][VS Code]] /  [[https://github.com/Microsoft/vscode-go][vscode-go plugin]] - vscode settings: [[https://gist.githubusercontent.com/judwhite/b039f45193f986a3c8ad/raw/384446f39805df437e634dabaf54d59208ffc160/launch.json][launch.json]] [[https://gist.githubusercontent.com/judwhite/6c75fcf628cbde9730c3/raw/d181c93bb240743f1be21e222eade251a5c2a584/settings.json][settings.json]] [[https://gist.githubusercontent.com/judwhite/1fad7f34e04f5169ed2e/raw/c62676cc3959d59d92a427b92f85fd4d2ff61648/tasks.json][tasks.json]]
-- [[https://github.com/visualfc/liteide][LiteIDE]] ([[https://gist.github.com/judwhite/e2c63679e0876c01d246][tips]) - Delve support coming soon!
+- [[https://github.com/visualfc/liteide][LiteIDE]] ([[https://gist.github.com/judwhite/e2c63679e0876c01d246][tips]]) - Delve support coming soon!
 - [[https://www.jetbrains.com/idea][IntelliJ IDEA]] / [[https://github.com/go-lang-plugin-org/go-lang-idea-plugin][plugin]]
 - [[https://www.sublimetext.com/][Sublime Text]] / [[https://github.com/golang/sublime-build][Golang Build]] package
 - Vim/Neovim: [[https://github.com/fatih/vim-go][vim-go]] (nvim: deoplete + deoplete-go)
